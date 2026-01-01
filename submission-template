@@ -1,0 +1,28 @@
+Here is a Submission Template you can save as a file (e.g., SUBMISSION_GUIDE.md) in the root of your repository. It ensures that when you go to judge the projects, every entry looks consistent and professional.
+📝 Project Submission Template
+> Instructions: Create a folder named [YourName]-[ProjectName]. Inside that folder, create a README.md file and copy-paste the content below into it. Fill out the details to complete your submission.
+> 
+🛰️ Project Name: [Insert Name Here]
+Participant: [Your Name / GitHub Username]
+Skill Level: [Beginner / Graduate / Professional]
+Language/Tech Stack: [e.g., Python, MicroPython, Node.js, C++]
+📖 The "Sentinel" Concept
+Describe what city problem your project solves.
+(e.g., "This project monitors public park trash cans and alerts waste management when they are 80% full.")
+⚙️ How it Works
+Briefly explain the flow of data:
+ * Sensor: (e.g., Ultrasonic sensor in Wokwi simulator)
+ * Logic: (e.g., Calculates depth; if depth < 10cm, trigger alert)
+ * Output: (e.g., Sends a message to a Discord Webhook)
+🚀 How to Run
+Provide the exact steps for the judges to see your project in action:
+ * Open this [Link to Wokwi/Simulator]
+ * Click the "Play" button.
+ * Open the [Link to Dashboard/Terminal] to view results.
+🌟 The "Flex" (What are you most proud of?)
+Did you handle a difficult bug? Use a cool library? Make a beautiful UI? Tell us here!
+🎥 Demo Link
+[Link to your 60-second video or screen recording]
+💡 Pro-Tip for Participants:
+When you submit your Pull Request, use the title format: SUBMISSION: [Your Name] - [Project Name]. This makes it much easier for everyone to browse the entries during the voting phase!
+
